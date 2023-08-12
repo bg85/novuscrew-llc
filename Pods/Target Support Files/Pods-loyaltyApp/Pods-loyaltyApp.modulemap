@@ -1,0 +1,6 @@
+framework module Pods_loyaltyApp {
+  umbrella header "Pods-loyaltyApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

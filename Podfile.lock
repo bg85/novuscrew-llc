@@ -1,0 +1,13 @@
+PODS:
+  - CryptoSwift (0.2.2)
+  - Mobile-Buy-SDK (1.2.4)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Mobile-Buy-SDK
+
+SPEC CHECKSUMS:
+  CryptoSwift: d382228d6301c09474132417878a741c2a2e68cd
+  Mobile-Buy-SDK: a999a38c934d056ad3a00e0225d47df8365d5480
+
+COCOAPODS: 0.39.0

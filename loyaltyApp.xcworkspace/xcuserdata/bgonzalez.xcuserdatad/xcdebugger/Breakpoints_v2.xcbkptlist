@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ViewControllerExtension.swift"
+            timestampString = "469390765.267759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "paymentAuthorizationViewController(_:didAuthorizePayment:completion:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ViewControllerExtension.swift"
+            timestampString = "469390765.987719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "paymentAuthorizationViewControllerDidFinish(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ViewControllerExtension.swift"
+            timestampString = "469394218.15395"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "paymentAuthorizationViewController(_:didSelectShippingAddress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ICloudDataProvider.swift"
+            timestampString = "470785444.143222"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "retrieveProfile(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/PAddress.swift"
+            timestampString = "474842970.44439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "isSamePhisicalAddressThan(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/VariantsCollectionViewCell.swift"
+            timestampString = "475763946.199112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "removeVariant(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/VariantsCollectionViewCell.swift"
+            timestampString = "475763947.173992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "addVariant(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/CreditCardViewController.swift"
+            timestampString = "477797786.340173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "startCheckout()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.CreditCardViewController.(startCheckout in _5F5B9B66AE04FF9FDCD4E43428EA0921) (loyaltyApp.CreditCardViewController)() -&gt; ()"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/CreditCardViewController.swift"
+                  timestampString = "479791026.499848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.CreditCardViewController.((startCheckout in _5F5B9B66AE04FF9FDCD4E43428EA0921) (loyaltyApp.CreditCardViewController) -&gt; () -&gt; ()).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/CreditCardViewController.swift"
+                  timestampString = "479791026.500002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/CreditCardViewController.swift"
+            timestampString = "477797786.340173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "startCheckout()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476653131.619724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476653131.619724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476674647.261578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476674647.261578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476653131.619724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doCreditCardCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, billingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, creditCard : __ObjC.BUYCreditCard, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.50573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doCreditCardCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, billingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, creditCard : __ObjC.BUYCreditCard, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.505859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "doCreditCardCheckout(_:shippingAddress:billingAddress:email:shippingRate:creditCard:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #2).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.508765"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #2).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.508882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476674647.261578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.509533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.50964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675126.708736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #2).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.510326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doApplePayCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, payment : __ObjC.PKPayment, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;__C.BUYStatus&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #2).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.510445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476653131.619724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476652046.473447"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getBuyAddressFromPayment(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476653131.619724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getBuyAddressFromPayment(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "476675179.088011"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "doApplePayCheckout(_:shippingAddress:email:shippingRate:discountCode:payment:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ConfirmationViewController.swift"
+            timestampString = "477683133.244229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/CreditCardViewController.swift"
+            timestampString = "477797786.340173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "startCheckout()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/CreditCardViewController.swift"
+            timestampString = "477797786.340173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "startCheckout()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LoginViewController.swift"
+            timestampString = "477885686.567407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "loginClick(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/VerificationViewController.swift"
+            timestampString = "478226156.333951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "proposeTouchId()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/VerificationViewController.swift"
+            timestampString = "478729361.478202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "verifyRegistration()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "479788959.722022"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "doFakeCheckout(_:shippingAddress:email:shippingRate:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LazyButtonViewController.swift"
+            timestampString = "479791025.420453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "getDiscountedTotals()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "479789436.763171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "doFakeCheckout(_:shippingAddress:email:shippingRate:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "479789445.333918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "doFakeCheckout(_:shippingAddress:email:shippingRate:discountCode:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doFakeCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.518012"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doFakeCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.518113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "479789459.587149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "doFakeCheckout(_:shippingAddress:email:shippingRate:discountCode:callback:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doFakeCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.518785"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "1169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.ShopifyMSDKProvider.(doFakeCheckout (loyaltyApp.ShopifyMSDKProvider) -&gt; (Swift.Array&lt;loyaltyApp.PProduct&gt;, shippingAddress : loyaltyApp.PAddress, email : Swift.String, shippingRate : Swift.String, discountCode : Swift.Optional&lt;Swift.String&gt;, callback : (Swift.Optional&lt;__ObjC.BUYCheckout&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #2)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/ShopifyMSDKProvider.swift"
+                  timestampString = "479791026.518894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/ShopifyMSDKProvider.swift"
+            timestampString = "479789463.040465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "doFakeCheckout(_:shippingAddress:email:shippingRate:discountCode:callback:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LazyButtonViewController.swift"
+            timestampString = "479791025.420453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "getDiscountedTotals()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.LazyButtonViewController.(getDiscountedTotals in _1BAD74DB576A1E6DA70F171D3E26BDD2) (loyaltyApp.LazyButtonViewController)() -&gt; ()"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/LazyButtonViewController.swift"
+                  timestampString = "479791026.520256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "loyaltyApp.LazyButtonViewController.((getDiscountedTotals in _1BAD74DB576A1E6DA70F171D3E26BDD2) (loyaltyApp.LazyButtonViewController) -&gt; () -&gt; ()).(closure #1)"
+                  moduleName = "loyaltyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bgonzalez/work/ios/pocs/mobile-app/loyaltyApp/LazyButtonViewController.swift"
+                  timestampString = "479791026.52035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LazyButtonViewController.swift"
+            timestampString = "479791025.420453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "initialize()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LazyRewardsViewController.swift"
+            timestampString = "479791025.420453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "loyaltyApp/LazyRewardsViewController.swift"
+            timestampString = "479791016.951044"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "initialize()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
